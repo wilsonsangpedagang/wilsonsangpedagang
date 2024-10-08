@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wilsonsangpedagang</h1>
-<h3 align="center">A computer science student form Indonesia</h3>
+<h3 align="center">A computer science student from Indonesia</h3>
 
 - 🌱 I’m currently learning **SIEM, VMDR, Risk Assessment**
 
