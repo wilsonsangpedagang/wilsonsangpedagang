@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Davin </h1>
 <h3 align="center">A computer science student from Indonesia</h3>
 
-- 🌱 I’m currently learning **SIEM, VMDR, Risk Assessment**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **davinmagic3@gmail.com**
+- 📫 How to reach me **davinhijran17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
